@@ -12,18 +12,62 @@
 
 <details>
 
-<summary>Open Profile</summary>
+  <summary>Open Profile</summary>
 
-[comment]: <> (view counter)
+  [comment]: <> (view counter)
 
-<div>
   <div>
-    <img height="200" alt="Parsa_Taslimi_Avatar" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/AvatarMaker.svg">
-  </div>
+    <div>
+      <img height="200" alt="Parsa_Taslimi_Avatar" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/AvatarMaker.svg">
+    </div>
   <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Turret+Road&weight=800&duration=3000&pause=300&color=F71818&center=true&vCenter=true&random=false&width=500&lines=Hi+There+%F0%9F%91%8B;I'm+Parsa+;Welcome+To+My+Profile+%E2%9D%A4%EF%B8%8F;+Description+Of+Myself+%3A;Frontend+Developer+%F0%9F%92%BB;I+Love+Coding+and+Gaming+%F0%9F%98%8D;Coffee+Addict++%E2%98%95;Confident+And+Ambitious+;Inquisitive++By+Nature+;And+Trying+To+Learn+More+Everyday+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
   </div>
 </div>
+
+  <details>
+    
+  <summary>About Me</summary>
+
+  <div align="left">
+
+  <img src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/about_me.gif"> 
+
+```ts
+export class Info {
+
+  name: string = 'Parsa Taslimi'
+  age: number = 27
+  nationality: string[] = ['Iranian']
+  languages: string[] = ['Persian', 'English']
+  university: string = 'Shomal University Of Amol'
+  occupation: string[] = ['Frontend Web Developer', 'Content Creator and Editor', 'jeweller']
+  freetime: string[] = ['Gym', 'Reading', 'Hanging out with friends']
+
+}
+
+export class Programming {
+
+  languages: string[] = ['TypeScript', 'JavaScript']
+  stylesheets: string[] = ['CSS', 'SASS', 'SCSS']
+  frameworks: string[] = ['Bootstrap']
+  learning: string[] = ['React']
+
+}
+
+export class Social {
+
+  github: string = 'Parsa-Taslimi'
+  instagram: string = 'par3aw_tsl'
+  discord: string = 'parsa444'
+  telegram: string = 'par3aw'
+
+}
+```
+
+</div>
+  
+  </details>
   
 </details>
 
