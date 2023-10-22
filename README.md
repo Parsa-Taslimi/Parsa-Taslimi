@@ -10,6 +10,7 @@
 <!-- TOP OF POKEBALL -->
 <img width="350px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png">
 
+<!-- MAIN CONTENT CONTAINER -->
 <details>
   <summary>Open Profile</summary>
 
@@ -139,11 +140,18 @@ export class Social {
   </details>
 
   <details>
-    <summarry>Connect With Me</summarry>
+    <summary>Connect With Me</summary>
     <br>
     <div>
+      <img width="120px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/Connect-with-me.gif">  
+    </div>
+    <div>
       <kbd>
-        
+        <a href="mailto:par3aw.dev@gmail.com"><img width="70px" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+        <a href="https://github.com/Parsa-Taslimi"><img width="80px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+        <a href="https://t.me/par3aw"><img width="90px" src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+        <a href="https://instagram.com/par3aw_tsl"><img width="95px" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+        <a href="#"><img width="85px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
       </kbd>
     </div>
   </details>
