@@ -25,12 +25,11 @@
 </div>
 
   <details>
-    
   <summary>About Me</summary>
 
-  <div align="left">
-
   <br>
+
+  <div align="left">
   
   <div align="center">
     <img height="80px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/about_me.gif">
@@ -53,7 +52,7 @@ export class Programming {
 
   languages: string[] = ['TypeScript', 'JavaScript']
   stylesheets: string[] = ['CSS', 'SASS', 'SCSS']
-  frameworks: string[] = ['Bootstrap']
+  frameworks: string[] = ['Bootstrap', 'Tailwind']
   learning: string[] = ['React']
 
 }
@@ -69,11 +68,70 @@ export class Social {
 ```
 
 </div>
-  
   </details>
 
   <details>
     <summary>Tools</summary>
+
+  <br>
+      
+  <div align="center">
+      <img height="50px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/Software_Tools.gif">
+    </div>
+
+  <div>
+    <p align="center">
+      <div>
+      <kbd>Programming Languages</kbd>
+      <br>
+      <img width="90px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+      <img width="90px" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+      </div>
+      <br>
+      <div>
+      <kbd>Front-end</kbd>
+      <br>
+      <img width="70px" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+      <img width="60px" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+      <img width="95px" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+      <img width="110px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
+      <img width="68px" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+      </div>
+      <br>
+      <div>
+      <kbd>Develop Tools</kbd>
+      <br>
+      <img width="150px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+      <img width="80px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+      </div>
+    </p>
+  </div>
+  </details>
+
+  <details>
+    <summary>Quotes</summary>
+    <br>
+      <ul align="left">
+        My Favorite Quotes:
+        <li>
+          <blockquote>
+    “You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.”
+    <br><strong>– John Romero</strong>
+          </blockquote>
+        </li>
+        <li>
+          <blockquote>
+    “Programmer: A machine that turns coffee into code.”
+    <br><strong>– Anonymous</strong>
+          </blockquote>
+        </li>
+        <li>
+          <blockquote>
+    “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+    <br><strong>― Martin Fowler</strong>
+          </blockquote>
+        </li>
+      </ul>
   </details>
   
 </details>
