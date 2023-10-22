@@ -99,10 +99,14 @@ export class Social {
       </div>
       <br>
       <div>
-      <kbd>Develop Tools</kbd>
+      <kbd>Develop Tools & Software</kbd>
       <br>
       <img width="150px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
       <img width="80px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+        <img width="55px" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+        <img width="95px" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
+        <img width="122px" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white">
+        <img width="62px" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
       </div>
     </p>
   </div>
@@ -132,6 +136,16 @@ export class Social {
           </blockquote>
         </li>
       </ul>
+  </details>
+
+  <details>
+    <summarry>Connect With Me</summarry>
+    <br>
+    <div>
+      <kbd>
+        
+      </kbd>
+    </div>
   </details>
   
 </details>
