@@ -11,7 +11,6 @@
 <img width="350px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png">
 
 <details>
-
   <summary>Open Profile</summary>
 
   [comment]: <> (view counter)
@@ -31,7 +30,11 @@
 
   <div align="left">
 
-  <img src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/about_me.gif"> 
+  <br>
+  
+  <div align="center">
+    <img height="80px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/about_me.gif">
+  </div> 
 
 ```ts
 export class Info {
@@ -67,6 +70,10 @@ export class Social {
 
 </div>
   
+  </details>
+
+  <details>
+    <summary>Tools</summary>
   </details>
   
 </details>
