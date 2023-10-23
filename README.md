@@ -178,12 +178,11 @@ export class Social {
 
 </div>
 
-<hr>
-
-Credits: [Parsa Taslimi](https://github.com/Parsa-Taslimi)
-Last Edited on: 23/10/2023
 <!-- GIF FOOTER -->
 <img src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/banner-footer.gif">
 
 <!-- RAINBOW LINE BOTTOM -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+Credits: [Parsa Taslimi](https://github.com/Parsa-Taslimi) <br>
+Last Edited on: 23/10/2023
