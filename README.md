@@ -165,7 +165,7 @@ export class Social {
         <a href="https://github.com/Parsa-Taslimi"><img width="80px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
         <a href="https://t.me/par3aw"><img width="90px" src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
         <a href="https://instagram.com/par3aw_tsl"><img width="95px" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-        <a href="#"><img width="85px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/parsa-taslimi-067b12271/"><img width="85px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
       </kbd>
     </div>
   </details>
