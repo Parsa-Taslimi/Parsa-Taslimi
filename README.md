@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- TOP OF POKEBALL -->
-<img width="350px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png">
+<img width="400px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png">
 
 <!-- MAIN CONTENT CONTAINER -->
 <details>
@@ -140,6 +140,20 @@ export class Social {
   </details>
 
   <details>
+    <summary>Github Stats</summary>
+    <br>
+    <div>
+      <img height="70px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/Statistics.gif">
+    </div>
+    <div>
+      
+  ![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parsa-Taslimi&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa-Taslimi&layout=compact)
+    </div>
+  </details>
+
+  <details>
     <summary>Connect With Me</summary>
     <br>
     <div>
@@ -160,12 +174,14 @@ export class Social {
 
 <!-- BOTTOM OF POKEBALL -->
 
-<img width="350px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png">
+<img width="400px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png">
 
 </div>
 
+<hr>
 
-
+Credits: [Parsa Taslimi](https://github.com/Parsa-Taslimi)
+Last Edited on: 23/10/2023
 <!-- GIF FOOTER -->
 <img src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/banner-footer.gif">
 
