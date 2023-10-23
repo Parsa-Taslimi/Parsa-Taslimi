@@ -33,7 +33,7 @@
   <div align="left">
   
   <div align="center">
-    <img height="80px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/about_me.gif">
+    <img height="80px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/about_me.gif">
   </div> 
 
 ```ts
@@ -77,7 +77,7 @@ export class Social {
   <br>
       
   <div align="center">
-      <img height="50px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/Software_Tools.gif">
+      <img height="50px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/Software_Tools.gif">
     </div>
 
   <div>
@@ -143,7 +143,7 @@ export class Social {
     <summary>Github Stats</summary>
     <br>
     <div>
-      <img height="70px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/Statistics.gif">
+      <img height="70px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/Statistics.gif">
     </div>
     <div>
       
@@ -157,7 +157,7 @@ export class Social {
     <summary>Connect With Me</summary>
     <br>
     <div>
-      <img width="120px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/Parsa-Taslimi-First-Branch/Attachment/Connect-with-me.gif">  
+      <img width="120px" src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/Connect-with-me.gif">  
     </div>
     <div>
       <kbd>
@@ -182,7 +182,7 @@ export class Social {
 <img src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/banner-footer.gif">
 
 <!-- RAINBOW LINE BOTTOM -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/Parsa-Taslimi/Parsa-Taslimi/blob/main/Attachment/line-neon.gif" width="100%">
 
 Credits: [Parsa Taslimi](https://github.com/Parsa-Taslimi) <br>
 Last Edited on: 23/10/2023
